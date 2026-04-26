@@ -8,10 +8,9 @@
 
 - 🎓 B.Tech Student (2024–2028) | CGPA: 9.42  
 - 📊 Machine Learning Enthusiast (Intermediate)  
-- 💻 Building real-world projects in Android and Web  
 - 🧠 Solved **700+ DSA problems** (LeetCode, GFG, Coding Ninjas)  
-- 🤖 Developed ML models using real datasets (SVM, Classification)  
-- 🔧 Experience with Flask, Django, and Streamlit  
+- 🤖 Built and deployed ML models (SVM, Classification)
+- 💻 Experience with Android, Flask, Django, and Streamlit  
 - 🔥 Consistent learner (GeekStreak Challenge)  
 
 ---
